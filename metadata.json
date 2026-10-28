@@ -1,0 +1,8 @@
+{
+  "name": "수출이지(ExportEasy) - 초보 소상공인 해외수출·해외판매 올인원 가이드",
+  "description": "해외수출을 처음 시작하는 소규모 업체 사장님을 위한 수출 필수 서류 체크리스트, 국가별 예상 관부가세 계산, 국제 배송 물류비 견적 및 관세청 공인 사이트 연계 가이드, AI 수출 전문 상담 챗봇",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
